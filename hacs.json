@@ -1,7 +1,7 @@
 {
   "name": "Gauge Card Pro (RU)",
   "content_in_root": false,
+  "filename": "gauge-card-pro.js",
   "render_readme": true,
-  "domains": ["lovelace"],
-  "iot_class": "local"
+  "domains": ["lovelace"]
 }
